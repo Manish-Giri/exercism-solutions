@@ -1,4 +1,6 @@
 java/.idea/
 python/.idea/
 java/**/build/
+java/**/.gradle/
+java/**/.exercism.
 
